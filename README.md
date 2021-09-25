@@ -1,3 +1,3 @@
 # Utils
 
-![Proof](proof.gif.mp4)
+![Proof](proof.gif)
